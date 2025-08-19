@@ -1,0 +1,17 @@
+[Scene 1: The Bottle]
+Visual: Dim light, a flask on a table, hand reaching slowly  
+Text Overlay: "He took the bottle."  
+Sound: Ambient hum, low piano chord  
+Tone: Heavy, reflective
+
+[Scene 2: The Blessing]
+Visual: Open hands in sunlight, fog rolling in  
+Text Overlay: "I took the blessing."  
+Sound: Gentle acoustic guitar or Nordic folk  
+Tone: Hopeful, soft
+
+[Scene 3: The Word]
+Visual: Snow falling, quiet forest or misty window  
+Text Overlay: "Uffda."  
+Sound: Whispered wind or silence  
+Tone: Sacred, still
